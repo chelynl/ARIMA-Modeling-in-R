@@ -20,3 +20,10 @@ We want to explore the average monthly concentration of ozone (ppm) in a local a
 * Made data visualizations of the following:
   * Time Plot of the predicted versus actual for the validation and test data
 * Calculated MAPE and MAE values for evaluating accuracy of forecasts with test data
+
+### Data Visualizations:
+<img src="images/dummy_vars_residuals.png" width=400> <img src="images/trig_model_residuals.png" width=400>
+<img src="images/dummies_WN.png" width=400>
+<img src="images/trig_WN.png" width=400>
+<img src="images/validation_plot.jpg" width=400>
+<img src="images/test_plot.png" width=400>
